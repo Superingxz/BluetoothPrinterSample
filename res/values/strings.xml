@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BluetoothPrinterSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="exit">退出</string>
+    <string name="open_bluetooth">打开蓝牙</string>
+    <string name="close_bluetooth">关闭蓝牙</string>
+    <string name="search_devices">搜索设备</string>
+    <string name="unbond_device">未绑定设备</string>
+    <string name="bond_device">已绑定设备</string>
+    <string name="address">Mac address</string>
+    <string name="loading">loading</string>
+    <string name="search">搜索中&#8230;</string>
+    <string name="connect_device">连接设备</string>
+    <string name="connecting">连接中&#8230;</string>
+    <string name="connect_s">连接成功</string>
+    <string name="connect_f">连接失败</string>
+    <string name="bluetooth_not_open">蓝牙未开启！</string>
+    <string name="img_selecte">选择图片</string>
+    <string name="img_2_bw">黑白化</string>
+    <string name="img_print">打印图片</string>
+    <string name="print">打印</string>
+    <string name="input">输入打印的文字</string>
+
+    <string-array name="code">
+        <item>初始化</item>
+        <item>靠左</item>
+        <item>居中</item>
+        <item>靠右</item>
+        <item>宽高加倍</item>
+    </string-array>
+
+</resources>
